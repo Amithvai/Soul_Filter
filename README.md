@@ -7,9 +7,9 @@ Format: Adblock Plus / EasyList. Sumber: [oisd](https://oisd.nl) & [ABPindo](htt
 
 | File | URL |
 |---|---|
-| oisd small | https://raw.githubusercontent.com/Amithvai/soul-filter/main/output/soul-oisd-small.txt |
-| oisd big   | https://raw.githubusercontent.com/Amithvai/soul-filter/main/output/soul-oisd-big.txt |
-| ABPindo    | https://raw.githubusercontent.com/Amithvai/soul-filter/main/output/soul-abpindo.txt |
+| oisd small | https://raw.githubusercontent.com/Amithvai/Soul_Filter/main/output/soul-oisd-small.txt |
+| oisd big   | https://raw.githubusercontent.com/Amithvai/Soul_Filter/main/output/soul-oisd-big.txt |
+| ABPindo    | https://raw.githubusercontent.com/Amithvai/Soul_Filter/main/output/soul-abpindo.txt |
 
 ## Cara pasang di Soul Browser
 
