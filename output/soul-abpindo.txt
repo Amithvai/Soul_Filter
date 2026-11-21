@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Soul Filter — ABPindo
-! Last modified: 2026-11-20 01:43 UTC
+! Last modified: 2026-11-21 01:11 UTC
 ! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 ! Rules: 10267
 
